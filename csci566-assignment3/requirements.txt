@@ -1,0 +1,9 @@
+numpy
+torch
+ipython
+ipykernel
+gym
+pyqt5
+matplotlib
+glob3
+seaborn
